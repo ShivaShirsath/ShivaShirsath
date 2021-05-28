@@ -1,4 +1,4 @@
-<font color=#123456><h1 align=center> Hi there, I'm <font color=#ff8800>Shiva</font> 👋 </h1></font>
+<font color<h1 align=center> Hi there, I'm <span style="color:red">Shiva</span> 👋 </h1>
 <!-- ********************************************************************************* -->
 <p align=center width=100% height=100%>
   <a href=https://twitter.com/ShivaShirsath>
