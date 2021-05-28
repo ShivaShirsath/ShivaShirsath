@@ -8,7 +8,7 @@
       height=6%
     />
   </a>
-  <a href=instagram>
+  <a href=#instagram>
     <img
       src=icons/insta.svg
       width=6%
