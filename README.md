@@ -8,7 +8,7 @@
       height=6%
     />
   </a>
-  <a href=https://instagram.com/_Shiva_Shirsath__>
+  <a href=instagram>
     <img
       src=icons/insta.svg
       width=6%
