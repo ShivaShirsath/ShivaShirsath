@@ -54,7 +54,7 @@
 	
 	
 <h3 align=center>Languages and Tools</h3>
-<p align=center>
+<p>
   <!-- Programming Languages -->
   <a href=https://github.com/ShivaShirsath/C target=_blank>
 	<img
