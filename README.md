@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Shiva 👋 </h1>
 <!-- ********************************************************************************* -->
-<h1 align=center width=100% height=100%>
+<h1 align=center>
   <a href=https://twitter.com/ShivaShirsath>
     <img
       src=icons/twitter.svg
@@ -36,7 +36,7 @@
       height=6%
     />
   </a>
-  <a href=https://www.youtube.com/channel/UCR-q2w0WQm5i-cmH9YwS_jA target=_blank>
+  <a href=https://www.youtube.com/channel/UCR-q2w0WQm5i-cmH9YwS_jA>
     <img
       src=icons/yt.svg
       width=6%
@@ -45,9 +45,13 @@
   </a>
 </h1>
 <h2 align=center>I'm a Developer, Programmer and Coder !!
-<a width=6%
-      height=6%>
-  ⚘ I’m currently learning everything... 😇 <br>
+<img
+      src=icons
+      alt="⚘ I’m currently learning everything... 😇"
+      width=6%
+      height=6%
+    />
+
 </a>
 </h2>
 	
