@@ -49,7 +49,8 @@
   <a href=https://github.com/ShivaShirsath?tab=repositories>⚘ I’m currently learning everything... 😇</a>
 </h2>	
 <!-- ********************************************************************************* -->
-<h3 align=center>Languages and Tools
+<h3 align=center>
+	Languages and Tools 🧰
   <br>
   <!-- Programming Languages -->
   <a href=https://github.com/ShivaShirsath/C target=_blank>
