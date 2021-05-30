@@ -46,7 +46,7 @@
 </h1>
 <h2 align=center>I'm a Developer, Programmer and Coder !!
 <img
-      src=icons
+   
       alt="⚘ I’m currently learning everything... 😇"
       width=6%
       height=6%
