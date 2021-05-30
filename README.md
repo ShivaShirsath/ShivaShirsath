@@ -44,11 +44,15 @@
     />
   </a>
 </h1>
-<h2 align=center>I'm a Developer, Programmer and Coder !!</h2>
+<h2 align=center>I'm a Developer, Programmer and Coder !!
 <p align=center>
   ⚘ I’m currently learning everything... 😇 <br>
 </p>
+</h2>
+	
 <!-- ********************************************************************************* -->
+	
+	
 <h3 align=center>Languages and Tools</h3>
 <p align=center>
   <!-- Programming Languages -->
