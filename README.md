@@ -45,9 +45,9 @@
   </a>
 </h1>
 <h2 align=center>I'm a Developer, Programmer and Coder !!
-<p align=center>
+<h4>
   ⚘ I’m currently learning everything... 😇 <br>
-</p>
+</h4>
 </h2>
 	
 <!-- ********************************************************************************* -->
