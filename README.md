@@ -45,7 +45,7 @@
   </a>
 </h1>
 <h2 align=center>I'm a Developer, Programmer and Coder !!
-<a href="">⚘ I’m currently learning everything... 😇</a>
+<a href="#">⚘ I’m currently learning everything... 😇</a>
 	</h2>
 	
 <!-- ********************************************************************************* -->
