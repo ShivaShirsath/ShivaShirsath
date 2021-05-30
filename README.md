@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Shiva 👋 </h1>
 <!-- ********************************************************************************* -->
-<p align=center width=100% height=100%>
+<h align=center width=100% height=100%>
   <a href=https://twitter.com/ShivaShirsath>
     <img
       src=icons/twitter.svg
@@ -43,8 +43,9 @@
       height=6%
     />
   </a>
-</p>
+</h>
 ***
+
 <hr>
 <h2 align=center>I'm a Developer, Programmer and Coder !!</h2>
     <p align=center>
