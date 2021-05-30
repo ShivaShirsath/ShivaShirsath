@@ -45,8 +45,7 @@
   </a>
 </h1>
 <h2 align=center>I'm a Developer, Programmer and Coder !!
-<img
-   
+<img h
       alt="⚘ I’m currently learning everything... 😇"
       width=6%
       height=6%
