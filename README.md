@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, I'm Shiva 👋
-<!-- ********************************************************************************* -->
-<br>
+  <!-- ********************************************************************************* -->
+  <br>
   <a href=https://twitter.com/ShivaShirsath>
     <img
       src=icons/twitter.svg
@@ -45,15 +45,12 @@
   </a>
 </h1>
 <h2 align=center>I'm a Developer, Programmer and Coder !!
-	
-<a href=https://github.com/ShivaShirsath?tab=repositories>⚘ I’m currently learning everything... 😇</a>
-	</h2>
-	
+  <br>
+  <a href=https://github.com/ShivaShirsath?tab=repositories>⚘ I’m currently learning everything... 😇</a>
+</h2>	
 <!-- ********************************************************************************* -->
-	
-	
-<h3 align=center>Languages and Tools</h3>
-<p>
+<h3 align=center>Languages and Tools
+  <br>
   <!-- Programming Languages -->
   <a href=https://github.com/ShivaShirsath/C target=_blank>
 	<img
@@ -141,15 +138,15 @@
 	  height=5%
 	/>
   </a>
-<!--
+  <!--
   <a href=https://github.com/ShivaShirsath/ target=_blank>
-	<img
-	  src=icons/github.svg
-	  width=5%
-	  height=5%
-	/>
+  <img
+  src=icons/github.svg
+  width=5%
+  height=5%
+  />
   </a>
---> 
+  --> 
   <!-- Databases -->
   <a href=# target=_blank>
 	<img
@@ -179,28 +176,27 @@
 	  height=5%
 	/>
   </a>
-</p>
+</h3>
 <!-- ******************************************************************************** -->
-<a href=https://github.com/ShivaShirsath target=_blank> 
+<a href=https://github.com/ShivaShirsath> 
   <img
 	src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true
   width=100%
   height=100%
   />
 </a>
-<a href=https://github.com/ShivaShirsath target=_blank>
+<a href=https://github.com/ShivaShirsath>
   <img
 	src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10
   width=100%
   height=100%
   />
 </a>  
-<a href=https://github.com/ShivaShirsath target=_blank>
+<a href=https://github.com/ShivaShirsath>
   <img
 	src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10&layout=compact
   width=100%
   height=100%
   />
 </a>  
-<!-- *********************************************************************************-->
 <!-- *********************************************************************************-->
