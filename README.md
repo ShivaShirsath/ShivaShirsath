@@ -187,19 +187,11 @@
         height=50% 
       />
     </a>
-    <a href=https://github.com/ShivaShirsath>
+    <a href=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=25>
       <img
-        src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=4&layout=compact 
+        src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10&layout=compact 
         width=49% 
         height=32% 
       />
-    </a>
-    <br>
-    <a href=https://github.com/ShivaShirsath>
-      <img 
-        src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=25
-        width=25% 
-        height=25% 
-      />
-    </a>   
+    </a> 
 </h2>
