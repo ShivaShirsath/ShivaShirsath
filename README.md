@@ -52,7 +52,7 @@
   </a>
 </h2>	
 ***
-<h3 align=center>
+<h2 align=center>
   Languages and Tools 🧰
   <br><br>
   <!-- Programming Languages -->
@@ -180,7 +180,7 @@
 	  height=5%
 	/>
   </a>
-</h3>
+</h2>
 ***
 <a href=https://github.com/ShivaShirsath> 
   <img
