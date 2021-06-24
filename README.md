@@ -181,12 +181,24 @@
 </h2>
 <h2 align=center>
     <a href=https://github.com/ShivaShirsath> 
-      <img src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true width=100% height=100% />
+      <img 
+        src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true 
+        width=25% 
+        height=25% 
+      />
     </a>
     <a href=https://github.com/ShivaShirsath>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10 width=100% height=100% />
+      <img 
+        src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10
+        width=25% 
+        height=25% 
+      />
     </a>  
     <a href=https://github.com/ShivaShirsath>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10&layout=compact width=100% height=100% />
+      <img
+        src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10&layout=compact 
+        width=25% 
+        height=25% 
+      />
     </a>  
 </h2>
