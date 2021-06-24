@@ -180,7 +180,7 @@
   </a>
 </h2>
 <h2 align=center>
-    <a href=https://github.com/ShivaShirsath> 
+    <a href=https://shivashirsath.github.io/Languages> 
       <img 
         src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true 
         width=100% 
