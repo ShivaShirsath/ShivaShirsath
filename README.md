@@ -1,5 +1,4 @@
 <h1 align=center> Hi there, I'm Shiva 👋
-  <br>
   <a href=https://twitter.com/ShivaShirsath>
     <img
       src=icons/twitter.svg
@@ -45,7 +44,7 @@
 </h1>
 <h2 align=center>
   I'm a Developer, Programmer and Coder !!
-  <br>
+  <br><br>
   <a href=https://github.com/ShivaShirsath?tab=repositories>
     ⚘ I’m currently learning everything... 😇
   </a>
