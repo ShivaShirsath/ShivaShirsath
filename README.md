@@ -37,7 +37,7 @@
     />
   </a>
   <a href=https://www.youtube.com/channel/UCR-q2w0WQm5i-cmH9YwS_jA>
-    <!-- <img -->
+    <img 
       src=icons/yt.svg
       width=6%
       height=6%
