@@ -183,14 +183,14 @@
     <a href=https://github.com/ShivaShirsath> 
       <img 
         src=https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&bg_color=00000000&icon_color=ffb74d&text_color=ffd95b&title_color=ffa726&hide_title=true 
-        width=50% 
+        width=49% 
         height=50% 
       />
     </a>
     <a href=https://github.com/ShivaShirsath>
       <img
         src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10&layout=compact 
-        width=50% 
+        width=49% 
         height=32% 
       />
     </a>
