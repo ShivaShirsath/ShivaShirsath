@@ -187,11 +187,4 @@
         height=100% 
       />
     </a>
-    <a href=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=25>
-      <img
-        src=https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaShirsath&bg_color=00000000&hide_title=true&langs_count=10&layout=compact 
-        width=100% 
-        height=100% 
-      />
-    </a> 
 </h2>
