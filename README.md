@@ -30,7 +30,7 @@
   </a>
 	<a href=https://stackoverflow.com/users/13447550/shiva-shirsath>
     <img
-      src=icons/stackoverflow.svg
+      src=icons/stack_overflow.svg
       width=6%
       height=6%
     />
