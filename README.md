@@ -28,7 +28,7 @@
       height=6%
     />
   </a>
-	<a href=https://linkedin.com/in/ShivaShirsath>
+	<a href=https://stackoverflow.com/users/13447550/shiva-shirsath>
     <img
       src=icons/stackoverflow.svg
       width=6%
