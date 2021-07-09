@@ -28,6 +28,13 @@
       height=6%
     />
   </a>
+	<a href=https://linkedin.com/in/ShivaShirsath>
+    <img
+      src=icons/stackoverflow.svg
+      width=6%
+      height=6%
+    />
+  </a>
   <a href=https://linkedin.com/in/ShivaShirsath>
     <img
       src=icons/linkedin.svg
