@@ -4,6 +4,9 @@
   <a href="https://instagram.com/_Shiva_Shirsath__">
     <img src="icons/insta.svg" width="8%" height="8%" />
   </a>
+  <a href="https://threads.net/@_shiva_shirsath__">
+    <img src="icons/threads.svg" width="8%" height="8%" />
+  </a>
   <a href="http://wa.me/+919130057189?text=Hii,+I+am+...">
     <img src="icons/whatsapp.svg" width="8%" height="8%" />
   </a>
