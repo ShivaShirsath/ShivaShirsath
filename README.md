@@ -74,11 +74,11 @@
   <br />
   <!-- Programming Languages -->
   <a href="../../../C">
-    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/c.svg"
-      width="8.5%" height="8.5%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
+      width="5.3%" height="6%" />
   </a>
   <a href="../../../CPP">
-    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/cpp.svg" width="6%" height="6%" />
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" width="5.2%" height="6%" />
   </a>
   <a href="../../../CSharp">
     <img src="https://shivashirsath.github.io/ShivaShirsath/icons/csharp.svg" width="6%" height="6%" />
@@ -87,24 +87,24 @@
     <img src="https://avatars.githubusercontent.com/javac" width="6%" height="6%" />
   </a>
   <a href="../../../Kotlin">
-    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/kotlin.svg" width="6%" height="6%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/kotlin.svg" width="5%" height="6%" />
   </a>
   <a href="../../../Python">
     <img
-      src="https://shivashirsath.github.io/ShivaShirsath/icons/python.svg"
-      width="8%" height="8%" />
+      src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      width="5.5%" height="6%" />
   </a>
   <a href="../../../Dart">
     <img
-      src="https://shivashirsath.github.io/ShivaShirsath/icons/dart.svg"
-      width="6%"
+      src="https://avatars.githubusercontent.com/dart-lang"
+      width="5%"
       weight="6%" />
   </a>
   <!-- Scripting Languages -->
   <a href="../../../JavaScript">
     <img
-      src="https://shivashirsath.github.io/ShivaShirsath/icons/js.svg"
-      width="6%" height="6%" />
+      src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg"
+      width="5%" height="5%" />
   </a>
   <br />
   Tools
@@ -135,7 +135,7 @@
   </a>
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firefox-extension/firefox-extension.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg"
       width="5%" height="5%" />
   </a>
   <a href="#">
