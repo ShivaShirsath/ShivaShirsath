@@ -15,7 +15,7 @@
   </a>
   <a href="https://t.me/ShivaShirsath">
     <img
-      src="https://shivashirsath.github.io/ShivaShirsath/icons/telegram.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
       width="8%" height="8%" />
   </a>
   <a href="https://linkedin.com/in/ShivaShirsath">
