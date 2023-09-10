@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://svg-cdn.vercel.app" width="100%" height="5%" />
-  <br />
+  <img src="https://svg-cdn.vercel.app?emoji=😇" width="100%" height="5%" />
+  <hr />
+  <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%" height="5%" />
   <a href="https://instagram.com/_Shiva_Shirsath__">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%" height="8%" />
   </a>
@@ -8,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" width="8%" height="8%" />
   </a>
   <a href="http://wa.me/+919130057189?text=Hii,+I+am+...">
-    <img src="https://static.xx.fbcdn.net/assets/?revision=1431132240730458&name=Illustrations-Get-Started&density=1" width="8%" height="8%" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="8%" height="8%" />
   </a>
   <a href="https://www.snapchat.com/add/shiva.shirsath">
     <img src="https://app.snapchat.com/web/deeplink/snapcode?username=shiva.shirsath&type=SVG" width="8%" height="8%" />
