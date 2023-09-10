@@ -2,27 +2,27 @@
   <img src="https://svg-cdn.vercel.app" width="100%" height="5%" />
   <br />
   <a href="https://instagram.com/_Shiva_Shirsath__">
-    <img src="icons/insta.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/insta.svg" width="8%" height="8%" />
   </a>
   <a href="https://threads.net/@_shiva_shirsath__">
-    <img src="icons/threads.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/threads.svg" width="8%" height="8%" />
   </a>
   <a href="http://wa.me/+919130057189?text=Hii,+I+am+...">
-    <img src="icons/whatsapp.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/whatsapp.svg" width="8%" height="8%" />
   </a>
   <a href="https://www.snapchat.com/add/shiva.shirsath">
     <img src="https://app.snapchat.com/web/deeplink/snapcode?username=shiva.shirsath&type=SVG" width="8%" height="8%" />
   </a>
   <a href="https://t.me/ShivaShirsath">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
+      src="https://shivashirsath.github.io/ShivaShirsath/icons/telegram.svg"
       width="8%" height="8%" />
   </a>
   <a href="https://linkedin.com/in/ShivaShirsath">
     <img src="https://avatars.githubusercontent.com/linkedin" width="8%" height="8%" />
   </a>
   <a href="https://www.paypal.me/ShivaShirsath">
-    <img src="icons/paypal.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/paypal.svg" width="8%" height="8%" />
   </a>
   <a href="https://codedamn.com/user/shivashirsath">
     <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2Fwhite-logo.png" width="5%"
@@ -33,22 +33,22 @@
     <img src="https://avatars.githubusercontent.com/twitter" width="8%" height="8%" />
   </a>
   <a href="https://facebook.com/Shiva.Shirsath.25">
-    <img src="icons/facebook.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/facebook.svg" width="8%" height="8%" />
   </a>
   <a href="https://stackoverflow.com/users/13447550/shiva-shirsath">
-    <img src="icons/stackoverflow.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/stackoverflow.svg" width="8%" height="8%" />
   </a>
   <a href="https://www.youtube.com/@ShivaShirsath">
-    <img src="icons/yt.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/yt.svg" width="8%" height="8%" />
   </a>
   <a href=https://www.kaggle.com/shivashirsath>
-    <img src="icons/kaggle.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/kaggle.svg" width="8%" height="8%" />
   </a>
   <a href="https://ShivaShirsath.github.io">
     <img src="https://avatars.githubusercontent.com/ShivaShirsath" width="8%" height="8%" />
   </a>
   <a href="https://g.dev/ShivaShirsath">
-    <img src="icons/google-developers.svg" width="8%" height="8%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/google-developers.svg" width="8%" height="8%" />
   </a>
   <a href="../../discussions">
     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="8%" height="8%" />
@@ -74,43 +74,43 @@
   <br />
   <!-- Programming Languages -->
   <a href="../../../C">
-    <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/c.svg"
       width="8.5%" height="8.5%" />
   </a>
   <a href="../../../CPP">
-    <img src="https://isocpp.org/assets/images/cpp_logo.png" width="6%" height="6%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/cpp.svg" width="6%" height="6%" />
   </a>
   <a href="../../../CSharp">
-    <img src="icons/csharp.svg" width="6%" height="6%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/csharp.svg" width="6%" height="6%" />
   </a>
   <a href="../../../Java">
     <img src="https://avatars.githubusercontent.com/javac" width="6%" height="6%" />
   </a>
   <a href="../../../Kotlin">
-    <img src="icons/kotlin.svg" width="6%" height="6%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/kotlin.svg" width="6%" height="6%" />
   </a>
   <a href="../../../Python">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+      src="https://shivashirsath.github.io/ShivaShirsath/icons/python.svg"
       width="8%" height="8%" />
   </a>
   <a href="../../../Dart">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"
+      src="https://shivashirsath.github.io/ShivaShirsath/icons/dart.svg"
       width="6%"
-          weight="6%" />
+      weight="6%" />
   </a>
   <!-- Scripting Languages -->
   <a href="../../../JavaScript">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+      src="https://shivashirsath.github.io/ShivaShirsath/icons/js.svg"
       width="6%" height="6%" />
   </a>
   <br />
   Tools
   <br />
   <a href="../../../NodeJS">
-    <img src="icons/nodejs.svg" width="5%" height="5%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/nodejs.svg" width="5%" height="5%" />
   </a>
   <a href="../../../Django">
     <img src="https://avatars.githubusercontent.com/django" width="5%" height="5%" />
@@ -145,7 +145,7 @@
   Databases
   <br />
   <a href="#">
-    <img src="icons/mongodb.svg" width="5%" height="5%" />
+    <img src="https://shivashirsath.github.io/ShivaShirsath/icons/mongodb.svg" width="5%" height="5%" />
   </a>
   <a href="../../../MySQL">
     <img src="https://avatars.githubusercontent.com/mysql" width="5%" height="5%" />
