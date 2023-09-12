@@ -57,9 +57,9 @@
   </a>
 </h1>
 <h2 align="center">
+  <p>
   𝓘'𝓶 𝓪 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣, 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖊𝖗 ＆ $Coder$ !!
-</h2>
-<h5 align="center">
+  </p>
     <a href="https://chat.whatsapp.com/HMUZWVhUTJsD5uwQf5diuD">
       ⚘
     </a>
@@ -69,7 +69,7 @@
     <a href="https://t.me/OnAndroid">
       ... 😇
     </a>
-</h5>
+</h2>
 <h2 align="center">
   Languages
   <p>
@@ -158,6 +158,11 @@
   </a>
   </p>
 </h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shivashirsath.github.io/ShivaShirsath/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://shivashirsath.github.io/ShivaShirsath/github-snake.svg" />
+  <img alt="github-snake" src="https://shivashirsath.github.io/ShivaShirsath/github-snake.svg" />
+</picture>
 <a href="https://shivashirsath.github.io/Languages">
   <picture>
     <source width="100%" height="100%"
@@ -170,9 +175,3 @@
       src="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=BBB&hide_title=true&border_color=426&include_all_commits=true&bg_color=0000&title_color=080&border_radius=25" />
   </picture>
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shivashirsath.github.io/ShivaShirsath/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://shivashirsath.github.io/ShivaShirsath/github-snake.svg" />
-  <img alt="github-snake" src="https://shivashirsath.github.io/ShivaShirsath/github-snake.svg" />
-</picture>
