@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://svg-cdn.vercel.app?emoji=😇" width="100%" height="5%" />
-  <hr />
+</h1>
+<h1>
   <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%" height="5%" />
   <a href="https://instagram.com/_Shiva_Shirsath__">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%" height="8%" />
