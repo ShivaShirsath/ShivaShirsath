@@ -2,94 +2,59 @@
   <img src="https://svg-cdn.vercel.app?emoji=😇" width="100%" height="5%" />
 </h1>
 <h1 align="center">
-    <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%" height="5%" />
-  <table>
- <tr>
-   <th>
-   <a href="https://instagram.com/_Shiva_Shirsath__">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+  <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%" height="5%" />
+  <a href="https://instagram.com/_Shiva_Shirsath__">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="https://threads.net/@_shiva_shirsath__">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="http://wa.me/+919130057189?text=Hii,+I+am+...">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="https://www.snapchat.com/add/shiva.shirsath">
-    <img src="https://app.snapchat.com/web/deeplink/snapcode?username=shiva.shirsath&type=SVG" />
+    <img src="https://app.snapchat.com/web/deeplink/snapcode?username=shiva.shirsath&type=SVG" width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="https://t.me/ShivaShirsath">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+      width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="https://linkedin.com/in/ShivaShirsath">
-    <img src="https://avatars.githubusercontent.com/linkedin" />
+    <img src="https://avatars.githubusercontent.com/linkedin" width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="https://www.paypal.me/ShivaShirsath">
-    <img src="https://pbs.twimg.com/profile_images/1605279612216348672/PCYJMyaB_400x400.png" />
+    <img src="https://pbs.twimg.com/profile_images/1605279612216348672/PCYJMyaB_400x400.png" width="8%" height="8%" />
   </a>
-   </th>
-   <th>
   <a href="https://codedamn.com/user/shivashirsath">
-    <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2Fwhite-logo.png" />
+    <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2Fwhite-logo.png" width="5%"
+      height="8%" />
   </a>
-   </th>
- </tr>
-    <tr>
-      <th>
+  <br />
   <a href="https://twitter.com/ShivaShirsath">
-    <img src="https://avatars.githubusercontent.com/twitter" />
+    <img src="https://avatars.githubusercontent.com/twitter" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href="https://facebook.com/Shiva.Shirsath.25">
-    <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914_1280.png" />
+    <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914_1280.png" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href="https://stackoverflow.com/users/13447550/shiva-shirsath">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href="https://www.youtube.com/@ShivaShirsath">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href=https://www.kaggle.com/shivashirsath>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href="https://ShivaShirsath.github.io">
-    <img src="https://avatars.githubusercontent.com/ShivaShirsath" />
+    <img src="https://avatars.githubusercontent.com/ShivaShirsath" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href="https://g.dev/ShivaShirsath">
-    <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" />
+    <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" width="8%" height="8%" />
   </a>
-      </th>
-      <th>
   <a href="../../discussions">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="8%" height="8%" />
   </a>
-      </th>
-    </tr>
-  </table>
 </h1>
 <h3 align="center">
   𝓘'𝓶 𝓪 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣, 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖊𝖗 ＆ $Coder$ !!
