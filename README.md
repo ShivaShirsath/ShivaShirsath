@@ -2,12 +2,9 @@
   <img src="https://svg-cdn.vercel.app?emoji=😇" width="100%" height="5%" />
 </h1>
 <h1 align="center">
-  <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%" height="5%" />
+  <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%" />
   <a href="https://instagram.com/_Shiva_Shirsath__">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%" height="8%" />
-  </a>
-  <a href="https://threads.net/@_shiva_shirsath__">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" width="8%" height="8%" />
   </a>
   <a href="http://wa.me/+919130057189?text=Hii,+I+am+...">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="8%" height="8%" />
@@ -29,6 +26,9 @@
   <a href="https://codedamn.com/user/shivashirsath">
     <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2Fwhite-logo.png" width="5%"
       height="8%" />
+  </a>
+  <a href="https://threads.net/@_shiva_shirsath__">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" width="8%" height="8%" />
   </a>
   <br />
   <a href="https://twitter.com/ShivaShirsath">
@@ -77,7 +77,7 @@
   <td>
     <a href="../../../C">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
-      width="5.3%" height="6%" />
+      width="8%" height="8%" />
   </a>
   <a href="../../../CPP">
     <img src="https://isocpp.org/assets/images/cpp_logo.png" width="5.2%" height="6%" />
@@ -94,6 +94,11 @@
   <a href="../../../Python">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      width="5.5%" height="6%" />
+  </a>
+    <a href="../../../R">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"
       width="5.5%" height="6%" />
   </a>
   <a href="../../../Dart">
