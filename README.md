@@ -51,6 +51,7 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="8%"/>
   </a>
 </p>
+<hr/>
 <h3 align="center">
   𝓘'𝓶 𝓪 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣, 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖊𝖗 ＆ $Coder$ !!
 </h3>
