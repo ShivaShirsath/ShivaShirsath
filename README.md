@@ -154,10 +154,10 @@
 </table>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://shivashirsath.github.io/ShivaShirsath/github-snake-dark.svg"/>
+    srcset="https://shivashirsath.github.io/ShivaShirsath/dist/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://shivashirsath.github.io/ShivaShirsath/github-snake.svg"/>
-  <img alt="github-snake" src="https://shivashirsath.github.io/ShivaShirsath/github-snake.svg"/>
+    srcset="https://shivashirsath.github.io/ShivaShirsath/dist/github-snake.svg"/>
+  <img alt="github-snake" src="https://shivashirsath.github.io/ShivaShirsath/dist/github-snake.svg"/>
 </picture>
 <picture>
   <source width="100%"
