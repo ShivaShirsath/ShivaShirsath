@@ -1,7 +1,7 @@
 <img src="https://svg-cdn.vercel.app?emoji=😇" width="100%"/>
 <img src="https://svg-cdn.vercel.app/?full=👇👇+Connect+with+me+Via+👇👇&color=AACC22&size=18&delay=3500" width="100%"/>
 <p align="center">
-  <a href="https://instagram.com/_Shiva_Shirsath__">
+  <a href="https://instagram.com/Shiva.S.Shirsath">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VaeYlNZF6sn2Ltwz7P35">
@@ -22,7 +22,7 @@
   <a href="https://codedamn.com/user/shivashirsath">
     <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2Fwhite-logo.png" width="5%"/>
   </a>
-  <a href="https://threads.net/@_shiva_shirsath__">
+  <a href="https://threads.net/@Shiva.S.Shirsath">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" width="8%"/>
   </a>
   <br/>
@@ -169,3 +169,4 @@
   <img width="100%"
     src="https://github-readme-stats.vercel.app/api?username=ShivaShirsath&show_icons=true&icon_color=F80&text_color=BBB&hide_title=true&border_color=426&include_all_commits=true&bg_color=fff&title_color=080&border_radius=25"/>
 </picture>
+
