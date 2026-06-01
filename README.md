@@ -4,8 +4,8 @@
   <a href="https://instagram.com/Shiva.S.Shirsath">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VaeYlNZF6sn2Ltwz7P35">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="8%"/>
+  <a href="https://wa.me/+919130057189&text=Hi 👋🏻, My name is ...">
+    <img src="https://avatars.githubusercontent.com/Whatsapp" width="8%"/>
   </a>
   <a href="https://www.snapchat.com/add/shiva.shirsath">
     <img src="https://app.snapchat.com/web/deeplink/snapcode?username=shiva.shirsath&type=SVG" width="8%"/>
