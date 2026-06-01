@@ -4,8 +4,8 @@
   <a href="https://instagram.com/Shiva.S.Shirsath">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="8%"/>
   </a>
-  <a href="https://wa.me/+919130057189&text=Hi 👋🏻, My name is ...">
-    <img src="https://avatars.githubusercontent.com/Whatsapp" width="8%"/>
+  <a href="https://wa.me/+919130057189?text=Hi 👋🏻, My name is ...">
+    <img src="https://avatars.githubusercontent.com/u/5508982" width="8%"/>
   </a>
   <a href="https://www.snapchat.com/add/shiva.shirsath">
     <img src="https://app.snapchat.com/web/deeplink/snapcode?username=shiva.shirsath&type=SVG" width="8%"/>
@@ -14,10 +14,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="8%"/>
   </a>
   <a href="https://linkedin.com/in/ShivaShirsath">
-    <img src="https://avatars.githubusercontent.com/linkedin" width="8%"/>
+    <img src="https://avatars.githubusercontent.com/u/357098" width="8%"/>
   </a>
   <a href="https://www.paypal.me/ShivaShirsath">
-    <img src="https://pbs.twimg.com/profile_images/1605279612216348672/PCYJMyaB_400x400.png" width="8%"/>
+    <img src="https://www.paypalobjects.com/marketing/web/logos/paypal-mark-color_new.svg" width="8%"/>
   </a>
   <a href="https://codedamn.com/user/shivashirsath">
     <img src="https://images.weserv.nl/?url=https%3A%2F%2Fcodedamn.com%2Fassets%2Fimages%2Fwhite-logo.png" width="5%"/>
@@ -27,10 +27,10 @@
   </a>
   <br/>
   <a href="https://twitter.com/ShivaShirsath">
-    <img src="https://avatars.githubusercontent.com/twitter" width="8%"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="8%"/>
   </a>
-  <a href="https://facebook.com/Shiva.Shirsath.25">
-    <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914_1280.png" width="8%"/>
+  <a href="https://www.facebook.com/profile.php?id=61589639715501">
+    <img src="https://static.xx.fbcdn.net/rsrc.php/y1/r/ay1hV6OlegS.ico" width="8%"/>
   </a>
   <a href="https://stackoverflow.com/users/13447550/shiva-shirsath">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="8%"/>
@@ -48,7 +48,7 @@
     <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" width="8%"/>
   </a>
   <a href="../../discussions">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="8%"/>
+    <img src="https://github.githubassets.com/favicons/favicon-dark.svg" width="8%"/>
   </a>
 </p>
 <hr/>
@@ -78,7 +78,7 @@
         <img src="https://isocpp.org/assets/images/cpp_logo.png" width="9.6%"/>
       </a>
       <a href="../../../CSharp">
-        <img src="https://static-00.iconduck.com/assets.00/csharp-icon-440x512-dt79kug9.png" width="9.3%"/>
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" width="9.3%"/>
       </a>
       <a href="../../../Java">
         <img src="https://avatars.githubusercontent.com/javac" width="10%"/>
